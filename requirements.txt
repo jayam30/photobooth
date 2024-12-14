@@ -1,0 +1,12 @@
+torch
+torchvision
+pillow
+fastapi
+python-multipart
+uvicorn
+python-jose[cryptography]
+facenet-pytorch
+retinaface-pytorch
+faiss-cpu
+uvicorn
+python-multipart
